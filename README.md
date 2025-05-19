@@ -101,11 +101,3 @@ Este projeto demonstra como diferentes padrões de design podem ser integrados p
 2. **Extensibilidade**: Novos tipos de transporte, estratégias de rota e decorações podem ser adicionados sem modificar o código existente.
 3. **Desacoplamento**: Os componentes do sistema estão desacoplados, permitindo alterações isoladas.
 4. **Reusabilidade**: Vários componentes podem ser reutilizados em diferentes contextos.
-
-## Autores
-
-Desenvolvido para a disciplina de POO-II da UNIFESP.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para obter mais detalhes.
