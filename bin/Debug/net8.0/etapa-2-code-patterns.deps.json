@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "etapa-2-code-patterns/1.0.0": {
+        "runtime": {
+          "etapa-2-code-patterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "etapa-2-code-patterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
